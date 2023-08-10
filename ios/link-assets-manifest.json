@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SFCompactText-Bold.ttf",
+      "sha1": "d8228528601293b47ae796bd4503fe2cd99f7822"
+    },
+    {
+      "path": "src/assets/fonts/SFCompactText-Medium.ttf",
+      "sha1": "dcd327682224f204bb5ec67571e53f32a5e2bf94"
+    },
+    {
+      "path": "src/assets/fonts/SFCompactText-Regular.ttf",
+      "sha1": "a3b435af3e5c4c3a3125333a5577b7e31796b821"
+    }
+  ]
+}

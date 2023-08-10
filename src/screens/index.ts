@@ -1,0 +1,5 @@
+export * from './OnBoard'
+export * from './Home'
+export * from './Setting'
+export * from './Account'
+export * from './Results'
